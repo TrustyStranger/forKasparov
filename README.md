@@ -1,6 +1,6 @@
 forKasparov
 ===========
-I created this program for my buddy kasparoc(hence the name for kasparov)
+I created this program for my buddy kasparov(hence the name for kasparov)
 and I realised it would be usefull to many other people so i decided to share it
 Sofar i have 
 -bonus picking which rates which bonus you should spawn into or try to get next
